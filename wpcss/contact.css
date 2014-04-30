@@ -1,0 +1,63 @@
+body{
+	width: 79%;
+	margin: 15px auto 0 auto;
+	font-family: 'Arvo', serif;
+	background-color: #000;
+	background-image:url("../wpimg/a2.png");
+	background-repeat: no-repeat;
+	background-position: bottom left;
+	background-attachment: fixed;
+	line-height: 130%;
+}
+
+nav{
+	font-family: 'Montserrat Alternates', sans-serif;
+	text-align: center;
+}
+
+nav li{
+	width: 100px;
+	padding: 10px;
+	display: inline;
+}
+
+section{
+	margin-bottom: 35px;
+	padding: 4px;
+	color: #fff;
+	text-align: center;
+}
+
+section li{
+	list-style-type: disc;
+	list-style-position: inside;
+}
+
+
+h1{
+	font-family: 'Arvo', serif;
+	text-transform: uppercase;
+	font-size: 50px;
+	color: #ff9;
+	text-align: center;
+	line-height: 200%
+}
+
+
+h2 {
+	font-family: 'Montserrat Alternates', sans-serif;
+	color: #099;
+	margin-top: 15px;
+	margin-bottom: 15px;
+
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+a:hover{
+	text-decoration: none;
+	color: #9cc;
+}

@@ -1,0 +1,16 @@
+section{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+nav{
+	display: block;
+	text-align: center;
+}
+
+nav li{
+	width: 100%;
+	display: block;
+	text-align: center;
+}

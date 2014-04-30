@@ -1,0 +1,40 @@
+body{
+	width: 100%;
+	float: none;
+	
+}
+
+
+nav{
+	display: none;
+}
+
+section{
+	border-width: 0px;
+	color: #000;
+	margin-bottom: 10px;
+}
+
+h1{
+	text-transform: uppercase;
+	font-family: 'Allerta Stencil', sans-serif;
+	font-size: 50px;
+	color: #000;
+	text-align: center;
+}
+
+#top{
+	color: #000;
+}
+
+#linked{
+	display: none;
+}
+
+#twit{
+	display: none;
+}
+
+a{
+	color: #000;
+}
